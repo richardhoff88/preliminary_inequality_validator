@@ -23,6 +23,7 @@ premises = [
     "(1) = 0",
     "(yz−4y+5z+3) > 0"
 ]
+```
 
 # Premise Checker Function and Correctness Proof
 
