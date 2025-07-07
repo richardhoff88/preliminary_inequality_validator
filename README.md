@@ -27,7 +27,7 @@ premises = [
 
 # Premise Checker Function and Correctness Proof
 
-## 📌 Premise Checker Function Algorithm
+## Premise Checker Function Algorithm
 
 Algorithm: check_premises
 Input: A list of inequalities (string), $premise_str_list$
