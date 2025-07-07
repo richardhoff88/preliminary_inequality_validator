@@ -1,10 +1,10 @@
-# 🧮 Mathbeaver Polynomial List Checker
+# Mathbeaver Polynomial List Checker
 
-A Python project to automatically validate a list of polynomial inequalities by detecting contradictions using symbolic and SMT-based methods.
+A Python checker to automatically validate a list of polynomial inequalities by detecting contradictions using symbolic and SMT-based methods.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project takes a list of inequalities (as strings) and checks if they are consistent (i.e., whether there exists an assignment of real values to variables that makes them all true).  
 It uses:
@@ -13,7 +13,7 @@ It uses:
 
 ---
 
-## ✏️ Example Input
+## Example Input
 
 ```python
 premises = [
